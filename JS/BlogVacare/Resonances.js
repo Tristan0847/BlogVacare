@@ -83,16 +83,16 @@ document.addEventListener('DOMContentLoaded', function() {
             const baseIntensity = Math.max(0, 1 - progress);
             
             // Echos multiples (ondulations qui se suivent)
-            const echo1 = Math.sin(progress * Math.PI * 12) * 0.2;
-            const echo2 = Math.sin(progress * Math.PI * 6) * 0.4; 
-            const echo3 = Math.sin(progress * Math.PI * 3) * 0.6; 
-            const echo4 = Math.sin(progress * Math.PI * 1.5) * 0.8
+            const echo1 = Math.abs(Math.sin(progress * Math.PI * 12) * 0.2);
+            const echo2 = Math.abs(Math.sin(progress * Math.PI * 6) * 0.4);
+            const echo3 = Math.abs(Math.sin(progress * Math.PI * 3) * 0.6);
+            const echo4 = Math.abs(Math.sin(progress * Math.PI * 1.5) * 0.8);
             
-            const totalIntensity = baseIntensity * (echo1 + echo2 + echo3 + echo4) * 0.4;
+            const totalIntensity = baseIntensity * (echo1 + echo2 + echo3 + echo4) * 0.8;
             
             return {
                 position: wavePosition,
-                intensity: Math.abs(totalIntensity)
+                intensity: totalIntensity
             };
         }
     }
@@ -133,16 +133,13 @@ document.addEventListener('DOMContentLoaded', function() {
                     
                     gradients.push(`linear-gradient(to right,
                         transparent 0%,
-                        transparent ${Math.max(0, centerPos - waveSpread - 8)}%,
-                        rgba(0,0,0,${opacity}) ${Math.max(0, centerPos - waveSpread - 2)}%,
-                        rgba(15,15,15,${opacity * 0.7}) ${Math.max(0, centerPos - waveSpread)}%,
-                        rgba(0,0,0,${opacity}) ${Math.max(0, centerPos - waveSpread + 2)}%,
-                        transparent ${Math.max(0, centerPos - waveSpread + 8)}%,
-                        transparent ${Math.min(100, centerPos + waveSpread - 8)}%,
-                        rgba(0,0,0,${opacity}) ${Math.min(100, centerPos + waveSpread - 2)}%,
-                        rgba(15,15,15,${opacity * 0.7}) ${Math.min(100, centerPos + waveSpread)}%,
-                        rgba(0,0,0,${opacity}) ${Math.min(100, centerPos + waveSpread + 2)}%,
-                        transparent ${Math.min(100, centerPos + waveSpread + 8)}%,
+                        transparent ${Math.max(0, centerPos - waveSpread - 5)}%,
+                        rgba(0,0,0,${opacity * 0.5}) ${Math.max(0, centerPos - waveSpread)}%,
+                        rgba(0,0,0,${opacity * 0.8}) ${Math.max(0, centerPos - waveSpread/2)}%,
+                        rgba(0,0,0,${opacity}) ${centerPos}%,
+                        rgba(0,0,0,${opacity * 0.8}) ${Math.min(100, centerPos + waveSpread/2)}%,
+                        rgba(0,0,0,${opacity * 0.5}) ${Math.min(100, centerPos + waveSpread)}%,
+                        transparent ${Math.min(100, centerPos + waveSpread + 5)}%,
                         transparent 100%
                     )`);
                 }
