@@ -1,0 +1,76 @@
+[
+  {
+    "slug": "sainte-fernande",
+    "titre": "Sainte Fernande",
+    "categorie": "Lieu",
+    "sousCategorie": "Comté de la Citadelle Rouge",
+    "tags": [
+      "Aleades",
+      "Citadelle Rouge",
+      "Fernande",
+      "Sainte"
+    ],
+    "auteur": "AntiR",
+    "extrait": "\n\n Présentation \n\nSainte Fernande est une des 3 Terres Sacrées de l'Église de la Citadelle Rouge, située dans le Comté du même nom. Fondée au Xème siècle au cours d'une période de guerre, elle devint à l'époque un refuge pour les fidèles persécutés",
+    "dateCreation": "2002-04-10T00:00:00.000Z"
+  },
+  {
+    "slug": "tour-d-aggee",
+    "titre": "La Tour d'Aggée",
+    "categorie": "Lieu",
+    "sousCategorie": "Comté de la Citadelle Rouge",
+    "tags": [
+      "Ignavides",
+      "Citadelle Rouge",
+      "Sainte Fernande"
+    ],
+    "auteur": "AntiR",
+    "extrait": "\n Présentation\n\nLa Tour d'Aggée, également connue sous le nom de Tour Rouge de Sainte Fernande, est un célèbre lieu de culte de [Sainte Fernande](/article/sainte-fernande).  \nSelon la légende issue du Livre de l'Expansion, Aggée R. Ignavides co",
+    "dateCreation": "2002-04-12T00:00:00.000Z"
+  },
+  {
+    "slug": "jonas-jr-r-aleades",
+    "titre": "Jonas Jr. R. Aleades",
+    "categorie": "Vedettes",
+    "sousCategorie": "Famille Aleades",
+    "tags": [
+      "Aleades",
+      "Citadelle Rouge",
+      "Ignavides"
+    ],
+    "auteur": "AntiR",
+    "extrait": "\n Présentation \n\nJonas Jr. R. Aleades, né le 16 avril 1998 à Sainte Fernande, est le fils aîné de Jonas R. Aleades, célèbre homme d'affaires français, patriarche de la puissante famille Aleades et figure influente de l'Église de la Citadelle Rouge.",
+    "dateCreation": "2004-06-08T00:00:00.000Z"
+  },
+  {
+    "slug": "jonas-aleades",
+    "titre": "Jonas R. Aleades",
+    "categorie": "Vedettes",
+    "sousCategorie": "Famille Aleades",
+    "tags": [
+      "Aleades",
+      "Citadelle Rouge",
+      "Ignavides",
+      "Brévange",
+      "Courgette de France"
+    ],
+    "auteur": "AntiR",
+    "extrait": "\n Présentation \n\nJonas R. Aleades, né le 16 janvier 1947 à Sainte Fernande, est un homme d'affaires français, patriarche de la puissante famille Aleades et figure influente de l'Église de la Citadelle Rouge. Célèbre pour la fondation de Aleades M",
+    "dateCreation": "2004-06-05T00:00:00.000Z"
+  },
+  {
+    "slug": "dragon-de-la-citadelle-rouge",
+    "titre": "Le Dragon de la Citadelle Rouge",
+    "categorie": "Mythes et Légendes",
+    "sousCategorie": "Épisode démystifié",
+    "tags": [
+      "Citadelle Rouge",
+      "Dragon",
+      "Georges",
+      "Sainte Fernande"
+    ],
+    "auteur": "AntiR",
+    "extrait": "\n\n Présentation du mythe\n\nLe mythe du Dragon de la Citadelle Rouge (également connu comme celui du Triomphe de Georges) est l'un des plus célèbres du Comté éponyme.\n\nLes écrits de la Citadelle Rouge décrivent son cas de la façon suivante : ",
+    "dateCreation": "2001-02-05T00:00:00.000Z"
+  }
+]
