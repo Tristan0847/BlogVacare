@@ -1,5 +1,35 @@
 [
   {
+    "slug": "fusillade-fantome",
+    "titre": "La Fusillade Fantôme",
+    "categorie": "Événement",
+    "sousCategorie": "",
+    "tags": [
+      "Forêt",
+      "Fusillade",
+      "Rats",
+      "Bois",
+      "Beirechamps"
+    ],
+    "auteur": "Le Rat",
+    "extrait": " 11 juillet 2024\n\nQuelques jours après l'annonce d'une [tragédie](/article/le-spectre-d-armand) dans la forêt de Beirechamps, alors que celle-ci est évitée de tous, une série de 10 coups de feu à la suite se font entendre dans un périmètre de 1,5 k",
+    "dateCreation": "2024-11-21T00:00:00.000Z"
+  },
+  {
+    "slug": "foret-de-beirechamps",
+    "titre": "Forêt de Beirechamps",
+    "categorie": "Lieu",
+    "sousCategorie": "",
+    "tags": [
+      "Forêt",
+      "Bois",
+      "Beirechamps"
+    ],
+    "auteur": "Le Rat",
+    "extrait": "\n Origines de la forêt (1981)\n\nAvant d'être une forêt, c'était un simple champs devenu inexploitable à cause de plantes envahissantes. Et l'entretien commençant à trop coûter, après plusieurs années à y réfléchir, la commune de Beirechamps a finale",
+    "dateCreation": "2024-11-21T00:00:00.000Z"
+  },
+  {
     "slug": "sainte-fernande",
     "titre": "Sainte Fernande",
     "categorie": "Lieu",
@@ -27,6 +57,21 @@
     "auteur": "AntiR",
     "extrait": "\n Présentation\n\nLa Tour d'Aggée, également connue sous le nom de Tour Rouge de Sainte Fernande, est un célèbre lieu de culte de [Sainte Fernande](/article/sainte-fernande).  \nSelon la légende issue du Livre de l'Expansion, Aggée R. Ignavides co",
     "dateCreation": "2002-04-12T00:00:00.000Z"
+  },
+  {
+    "slug": "jean-paulin-pasquiet",
+    "titre": "Jean-Paulin Pasquiet",
+    "categorie": "Vedettes",
+    "sousCategorie": "Victimes de N0Realis",
+    "tags": [
+      "N0Realis",
+      "Fusillade",
+      "Jean-Paulin",
+      "Beirechamps"
+    ],
+    "auteur": "Le Rat",
+    "extrait": "\n\n Avis de recherche\n\nExtrait de l'avis de recherche de Jean-Paulin Pasquiet, rédigé de ma main. \n\n<ImageCustom src=\"/assets/articles/Vedettes/Victimes N0Realis/Jean-Paulin Pasquiet ADR.png\" alt=\"Avis de recherche de Jean-Paulin (07/2024)\" width=\"\"",
+    "dateCreation": "2024-11-18T00:00:00.000Z"
   },
   {
     "slug": "jonas-jr-r-aleades",
@@ -59,6 +104,21 @@
     "dateCreation": "2004-06-05T00:00:00.000Z"
   },
   {
+    "slug": "melinda-lussiers",
+    "titre": "Melinda Lussiers",
+    "categorie": "Vedettes",
+    "sousCategorie": "Victimes de N0Realis",
+    "tags": [
+      "N0Realis",
+      "Fusillade",
+      "Melinda",
+      "Beirechamps"
+    ],
+    "auteur": "Le Rat",
+    "extrait": "\n Avis de recherche\n\nExtrait de l'avis de recherche de Melinda Lussiers (réécrit au cours du mois d'août 2024): \n\nDisparue le 11 juillet 2024, partie faire des courses à Duamont, Melinda n'a pas donné signe de vie depuis ce jour et nous c",
+    "dateCreation": "2024-11-18T00:00:00.000Z"
+  },
+  {
     "slug": "dragon-de-la-citadelle-rouge",
     "titre": "Le Dragon de la Citadelle Rouge",
     "categorie": "Mythes et Légendes",
@@ -72,5 +132,20 @@
     "auteur": "AntiR",
     "extrait": "\n\n Présentation du mythe\n\nLe mythe du Dragon de la Citadelle Rouge (également connu comme celui du Triomphe de Georges) est l'un des plus célèbres du Comté éponyme.\n\nLes écrits de la Citadelle Rouge décrivent son cas de la façon suivante : ",
     "dateCreation": "2001-02-05T00:00:00.000Z"
+  },
+  {
+    "slug": "le-spectre-d-armand",
+    "titre": "Le Spectre d'Armand",
+    "categorie": "Mythes et Légendes",
+    "sousCategorie": "Mythe actuel",
+    "tags": [
+      "Armand",
+      "Fantôme",
+      "Esprit",
+      "Foret"
+    ],
+    "auteur": "Le Rat",
+    "extrait": "\n La mort d'Armand (07/2024)\n\nLe 8 juillet 2024, est annoncé le décès récent de Armand Barannes, mort dans la Forêt de Beirechamps.\n\nPeu de détails sont communiqués sur l'affaire, on saura simplement qu'il a été retrouvé accroché à un arb",
+    "dateCreation": "2024-11-20T00:00:00.000Z"
   }
 ]
