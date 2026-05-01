@@ -1,5 +1,21 @@
 [
   {
+    "slug": "nouvelle-tour-rouge",
+    "titre": "La Nouvelle Tour Rouge",
+    "categorie": "Autres",
+    "sousCategorie": "Souvenir 3ème Oeil",
+    "tags": [
+      "3ème Oeil",
+      "Citadelle Rouge",
+      "Tour Rouge",
+      "Aggée",
+      "Cauchemar"
+    ],
+    "auteur": "3ème Oeil",
+    "extrait": "\nIl y a deux semaines, j'ai refait un rêve que je n'avais pas eu depuis mon enfance.  \n\nJe suis seule, au beau milieu de ma ville natale, et alors que le calme devrait m'apaiser, ici, il m'oppresse.  \nPour une raison que j'ignore, j'ai de grandes dif",
+    "dateCreation": "2023-11-29T00:00:00.000Z"
+  },
+  {
     "slug": "fusillade-fantome",
     "titre": "La Fusillade Fantôme",
     "categorie": "Événement",
@@ -59,6 +75,81 @@
     "dateCreation": "2002-04-12T00:00:00.000Z"
   },
   {
+    "slug": "dragon-de-la-citadelle-rouge",
+    "titre": "Le Dragon de la Citadelle Rouge",
+    "categorie": "Mythes et Légendes",
+    "sousCategorie": "Épisode démystifié",
+    "tags": [
+      "Citadelle Rouge",
+      "Dragon",
+      "Georges",
+      "Sainte Fernande"
+    ],
+    "auteur": "AntiR",
+    "extrait": "\n\n Présentation du mythe\n\nLe mythe du Dragon de la Citadelle Rouge (également connu comme celui du Triomphe de Georges) est l'un des plus célèbres du Comté éponyme.\n\nLes écrits de la Citadelle Rouge décrivent son cas de la façon suivante : ",
+    "dateCreation": "2001-02-05T00:00:00.000Z"
+  },
+  {
+    "slug": "le-spectre-d-armand",
+    "titre": "Le Spectre d'Armand",
+    "categorie": "Mythes et Légendes",
+    "sousCategorie": "Mythe actuel",
+    "tags": [
+      "Armand",
+      "Fantôme",
+      "Esprit",
+      "Foret"
+    ],
+    "auteur": "Le Rat",
+    "extrait": "\n La mort d'Armand (07/2024)\n\nLe 8 juillet 2024, est annoncé le décès récent de Armand Barannes, mort dans la Forêt de Beirechamps.\n\nPeu de détails sont communiqués sur l'affaire, on saura simplement qu'il a été retrouvé accroché à un arb",
+    "dateCreation": "2024-11-20T00:00:00.000Z"
+  },
+  {
+    "slug": "nuee-cornue",
+    "titre": "Nuée Cornue",
+    "categorie": "Mythes et Légendes",
+    "sousCategorie": "Créature",
+    "tags": [
+      "Recrudescence",
+      "Esprit",
+      "Citadelle Rouge",
+      "Nuée Noire"
+    ],
+    "auteur": "Dr Owl",
+    "extrait": "\nL'un des résultats possibles au [Rituel de Recrudescence](/article/rituel-de-recrudescence), apparaîssant sous une forme décrite comme cornue dans les saints extraits de la Citadelle Rouge.\n\nExtrait du Livre de la Nuée Noire, chapitre 6:16-20\n<Citat",
+    "dateCreation": "2003-09-25T00:00:00.000Z"
+  },
+  {
+    "slug": "nuee-petrifiante",
+    "titre": "Nuée Pétrifiante",
+    "categorie": "Mythes et Légendes",
+    "sousCategorie": "Créature",
+    "tags": [
+      "Recrudescence",
+      "Esprit",
+      "Citadelle Rouge",
+      "Nuée Noire"
+    ],
+    "auteur": "Dr Owl",
+    "extrait": "\nLa \"Nuée Pétrifiante\" serait née d'un abus du [Rituel de Recrudescence](/article/rituel-de-recrudescence) : la légende raconte qu'après un rituel à succès, un Funèbre aurait contenu les insectes, produits du rituel, dans une zone scellée où ils pour",
+    "dateCreation": "2003-09-26T00:00:00.000Z"
+  },
+  {
+    "slug": "rituel-de-recrudescence",
+    "titre": "Rituel de Recrudescence",
+    "categorie": "Mythes et Légendes",
+    "sousCategorie": "Rituel",
+    "tags": [
+      "Recrudescence",
+      "Esprit",
+      "Citadelle Rouge",
+      "Nuée Noire"
+    ],
+    "auteur": "Dr Owl",
+    "extrait": "\nExtrait du Livre de la Nuée Noire, chapitre 6:01-14\n\n\n01- Au coucher du soleil, le serviteur se rendit au pied de la Citadelle Rouge pour en explorer la crypte.  \n02- Ici, la Nuée dormante s'éveilla : \"Serviteur, les vois-tu ? Les ressens-",
+    "dateCreation": "2003-09-23T00:00:00.000Z"
+  },
+  {
     "slug": "jean-paulin-pasquiet",
     "titre": "Jean-Paulin Pasquiet",
     "categorie": "Vedettes",
@@ -72,6 +163,19 @@
     "auteur": "Le Rat",
     "extrait": "\n\n Avis de recherche\n\nExtrait de l'avis de recherche de Jean-Paulin Pasquiet, rédigé de ma main. \n\n<ImageCustom src=\"/assets/articles/Vedettes/Victimes N0Realis/Jean-Paulin Pasquiet ADR.png\" alt=\"Avis de recherche de Jean-Paulin (07/2024)\" width=\"\"",
     "dateCreation": "2024-11-18T00:00:00.000Z"
+  },
+  {
+    "slug": "joel-odiodes",
+    "titre": "Joël Odiodes",
+    "categorie": "Vedettes",
+    "sousCategorie": "Famille Odiodes",
+    "tags": [
+      "Citadelle Rouge",
+      "Odiodes"
+    ],
+    "auteur": "AntiR",
+    "extrait": "\n Présentation\n\nPersonnalité de la Citadelle Rouge, majoritairement connu comme PDG de Ressources Odiodes.  \nCandidat au titre de patriarche de la famille Odiodes.\n\nEn juin 1998, sa fortune est estimée à 180.7 millions de dollars.\n\n Biographie\n",
+    "dateCreation": "2004-06-24T00:00:00.000Z"
   },
   {
     "slug": "jonas-jr-r-aleades",
@@ -119,33 +223,16 @@
     "dateCreation": "2024-11-18T00:00:00.000Z"
   },
   {
-    "slug": "dragon-de-la-citadelle-rouge",
-    "titre": "Le Dragon de la Citadelle Rouge",
-    "categorie": "Mythes et Légendes",
-    "sousCategorie": "Épisode démystifié",
+    "slug": "michee-r-ignavides",
+    "titre": "Michée R. Ignavides",
+    "categorie": "Vedettes",
+    "sousCategorie": "Famille Ignavides",
     "tags": [
       "Citadelle Rouge",
-      "Dragon",
-      "Georges",
-      "Sainte Fernande"
+      "Ignavides"
     ],
     "auteur": "AntiR",
-    "extrait": "\n\n Présentation du mythe\n\nLe mythe du Dragon de la Citadelle Rouge (également connu comme celui du Triomphe de Georges) est l'un des plus célèbres du Comté éponyme.\n\nLes écrits de la Citadelle Rouge décrivent son cas de la façon suivante : ",
-    "dateCreation": "2001-02-05T00:00:00.000Z"
-  },
-  {
-    "slug": "le-spectre-d-armand",
-    "titre": "Le Spectre d'Armand",
-    "categorie": "Mythes et Légendes",
-    "sousCategorie": "Mythe actuel",
-    "tags": [
-      "Armand",
-      "Fantôme",
-      "Esprit",
-      "Foret"
-    ],
-    "auteur": "Le Rat",
-    "extrait": "\n La mort d'Armand (07/2024)\n\nLe 8 juillet 2024, est annoncé le décès récent de Armand Barannes, mort dans la Forêt de Beirechamps.\n\nPeu de détails sont communiqués sur l'affaire, on saura simplement qu'il a été retrouvé accroché à un arb",
-    "dateCreation": "2024-11-20T00:00:00.000Z"
+    "extrait": "\n Présentation\n\nMichée R. Ignavides est l'actuelle matriarche de la famille Ignavides. Célèbre pour ses oeuvres caritatives, elle utilise l'influence de la Citadelle Rouge pour aider les plus démunis et est de façon plus générale une sorte de secré",
+    "dateCreation": "2004-06-05T00:00:00.000Z"
   }
 ]
