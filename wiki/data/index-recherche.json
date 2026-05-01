@@ -32,49 +32,6 @@
     "dateCreation": "2024-11-21T00:00:00.000Z"
   },
   {
-    "slug": "foret-de-beirechamps",
-    "titre": "Forêt de Beirechamps",
-    "categorie": "Lieu",
-    "sousCategorie": "",
-    "tags": [
-      "Forêt",
-      "Bois",
-      "Beirechamps"
-    ],
-    "auteur": "Le Rat",
-    "extrait": "\n Origines de la forêt (1981)\n\nAvant d'être une forêt, c'était un simple champs devenu inexploitable à cause de plantes envahissantes. Et l'entretien commençant à trop coûter, après plusieurs années à y réfléchir, la commune de Beirechamps a finale",
-    "dateCreation": "2024-11-21T00:00:00.000Z"
-  },
-  {
-    "slug": "sainte-fernande",
-    "titre": "Sainte Fernande",
-    "categorie": "Lieu",
-    "sousCategorie": "Comté de la Citadelle Rouge",
-    "tags": [
-      "Aleades",
-      "Citadelle Rouge",
-      "Fernande",
-      "Sainte"
-    ],
-    "auteur": "AntiR",
-    "extrait": "\n\n Présentation \n\nSainte Fernande est une des 3 Terres Sacrées de l'Église de la Citadelle Rouge, située dans le Comté du même nom. Fondée au Xème siècle au cours d'une période de guerre, elle devint à l'époque un refuge pour les fidèles persécutés",
-    "dateCreation": "2002-04-10T00:00:00.000Z"
-  },
-  {
-    "slug": "tour-d-aggee",
-    "titre": "La Tour d'Aggée",
-    "categorie": "Lieu",
-    "sousCategorie": "Comté de la Citadelle Rouge",
-    "tags": [
-      "Ignavides",
-      "Citadelle Rouge",
-      "Sainte Fernande"
-    ],
-    "auteur": "AntiR",
-    "extrait": "\n Présentation\n\nLa Tour d'Aggée, également connue sous le nom de Tour Rouge de Sainte Fernande, est un célèbre lieu de culte de [Sainte Fernande](/article/sainte-fernande).  \nSelon la légende issue du Livre de l'Expansion, Aggée R. Ignavides co",
-    "dateCreation": "2002-04-12T00:00:00.000Z"
-  },
-  {
     "slug": "dragon-de-la-citadelle-rouge",
     "titre": "Le Dragon de la Citadelle Rouge",
     "categorie": "Mythes et Légendes",
@@ -234,5 +191,48 @@
     "auteur": "AntiR",
     "extrait": "\n Présentation\n\nMichée R. Ignavides est l'actuelle matriarche de la famille Ignavides. Célèbre pour ses oeuvres caritatives, elle utilise l'influence de la Citadelle Rouge pour aider les plus démunis et est de façon plus générale une sorte de secré",
     "dateCreation": "2004-06-05T00:00:00.000Z"
+  },
+  {
+    "slug": "foret-de-beirechamps",
+    "titre": "Forêt de Beirechamps",
+    "categorie": "Lieu",
+    "sousCategorie": "",
+    "tags": [
+      "Forêt",
+      "Bois",
+      "Beirechamps"
+    ],
+    "auteur": "Le Rat",
+    "extrait": "\n Origines de la forêt (1981)\n\nAvant d'être une forêt, c'était un simple champs devenu inexploitable à cause de plantes envahissantes. Et l'entretien commençant à trop coûter, après plusieurs années à y réfléchir, la commune de Beirechamps a finale",
+    "dateCreation": "2024-11-21T00:00:00.000Z"
+  },
+  {
+    "slug": "sainte-fernande",
+    "titre": "Sainte Fernande",
+    "categorie": "Lieu",
+    "sousCategorie": "Comté de la Citadelle Rouge",
+    "tags": [
+      "Aleades",
+      "Citadelle Rouge",
+      "Fernande",
+      "Sainte"
+    ],
+    "auteur": "AntiR",
+    "extrait": "\n\n Présentation \n\nSainte Fernande est une des 3 Terres Sacrées de l'Église de la Citadelle Rouge, située dans le Comté du même nom. Fondée au Xème siècle au cours d'une période de guerre, elle devint à l'époque un refuge pour les fidèles persécutés",
+    "dateCreation": "2002-04-10T00:00:00.000Z"
+  },
+  {
+    "slug": "tour-d-aggee",
+    "titre": "La Tour d'Aggée",
+    "categorie": "Lieu",
+    "sousCategorie": "Comté de la Citadelle Rouge",
+    "tags": [
+      "Ignavides",
+      "Citadelle Rouge",
+      "Sainte Fernande"
+    ],
+    "auteur": "AntiR",
+    "extrait": "\n Présentation\n\nLa Tour d'Aggée, également connue sous le nom de Tour Rouge de Sainte Fernande, est un célèbre lieu de culte de [Sainte Fernande](/article/sainte-fernande).  \nSelon la légende issue du Livre de l'Expansion, Aggée R. Ignavides co",
+    "dateCreation": "2002-04-12T00:00:00.000Z"
   }
 ]
