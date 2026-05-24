@@ -1,0 +1,24 @@
+[
+  {
+    "id": 1,
+    "titre": "Blog de Vacare",
+    "description": "Si vous souhaitez me contacter",
+    "slug": "blog-de-vacare",
+    "nom_utilisateur": "Vacare",
+    "id_suppression": null,
+    "date_creation": "2022-08-04T00:00:00.000000Z",
+    "blogs": [],
+    "element_supprime_visible": null
+  },
+  {
+    "id": 2,
+    "titre": "Imaginez TOUT !",
+    "description": " Imaginez n'importe quoi, ce que vous voulez, et gardez précieusement cette image en tête… D'une certaine façon, vous savez que ce que vous imaginez existe quelque part, pas juste dans votre esprit mais physiquement quelque part, et pourtant il est hors d'atteinte et seule l'image que vous vous en faites dans votre esprit semble réelle… Mais je suis convaincu que l'on pourrait changer ça.",
+    "slug": "imaginez-tout",
+    "nom_utilisateur": "Oneiros",
+    "id_suppression": null,
+    "date_creation": "2010-08-14T14:11:50.000000Z",
+    "blogs": [],
+    "element_supprime_visible": null
+  }
+]

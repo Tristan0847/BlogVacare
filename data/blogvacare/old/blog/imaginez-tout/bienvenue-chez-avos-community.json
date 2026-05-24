@@ -1,0 +1,24 @@
+[
+  {
+    "id": 68,
+    "id_blog": 17,
+    "nom_utilisateur": "Vince",
+    "contenu": "C'est tout bon, tu devrais avoir accès à l'autre version du site, je te présente [AVOS Community](https://www.blogvacare.com/community) !",
+    "date_publication": "2010-08-27T17:49:37.000000Z",
+    "id_suppression": null,
+    "likes": 0,
+    "partages": 0,
+    "element_supprime_visible": null
+  },
+  {
+    "id": 69,
+    "id_blog": 17,
+    "nom_utilisateur": "Oneiros",
+    "contenu": "On se capte par là !",
+    "date_publication": "2010-08-27T17:58:09.000000Z",
+    "id_suppression": null,
+    "likes": 0,
+    "partages": 0,
+    "element_supprime_visible": null
+  }
+]

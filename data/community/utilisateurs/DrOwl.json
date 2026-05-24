@@ -1,0 +1,32 @@
+{
+  "utilisateur": {
+    "nom_utilisateur": "DrOwl",
+    "est_admin": 1,
+    "description": "Dr Owl est dans la place !\nFondateur d'AVOS Community et de son prédécesseur, crée des sites web sur mon temps libre et apprécie de pouvoir rassembler différentes communautés entre elles !\nJ'espère qu'on pourra s'entendre !",
+    "banniere": "owl.jpg",
+    "created_at": "2003-09-19T00:08:47.000000Z",
+    "updated_at": "2003-09-19T00:08:47.000000Z"
+  },
+  "blogs": [
+    {
+      "id": 14,
+      "titre": "",
+      "slug": "9lIY5NaxPN",
+      "id_dossier": null,
+      "nom_utilisateur": "DrOwl",
+      "id_suppression": null,
+      "date_creation": "2009-01-01T12:08:18.000000Z",
+      "nombre_reponses": 3,
+      "message_post": {
+        "id": 58,
+        "id_blog": 14,
+        "nom_utilisateur": "DrOwl",
+        "contenu": "Bonjour à tous et bienvenue chez AVOS Community !\nOn a mis en place ce site avec Ant et Vincent pour rassembler et agrandir nos communautés respectives. Les accès sont, pour le moment, limités aux likes et partages mais on ajoutera des membres dès la...",
+        "date_publication": "2009-01-01T12:08:18.000000Z",
+        "id_suppression": null,
+        "likes": 28,
+        "partages": 7
+      }
+    }
+  ]
+}

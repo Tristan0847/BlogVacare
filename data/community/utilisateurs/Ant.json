@@ -1,0 +1,11 @@
+{
+  "utilisateur": {
+    "nom_utilisateur": "Ant",
+    "est_admin": 0,
+    "description": "Je m'appelle Ant, passionné de mythologies en tout genre. Co-créateur d'AVOS Community espérant pouvoir faire de nouvelles rencontres intéressantes par ici, au plaisir de vous rencontrer !",
+    "banniere": "triquetra noir.png",
+    "created_at": "2009-01-01T19:50:20.000000Z",
+    "updated_at": "2026-05-21T19:50:20.000000Z"
+  },
+  "blogs": []
+}

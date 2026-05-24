@@ -1,0 +1,90 @@
+{
+  "id": 7,
+  "titre": "Je suis de retour !",
+  "slug": "je-suis-de-retour",
+  "id_dossier": 2,
+  "nom_utilisateur": "Vince",
+  "id_suppression": null,
+  "date_creation": "2010-08-23T09:25:26.000000Z",
+  "nombre_reponses": 7,
+  "messages": [
+    {
+      "id": 39,
+      "id_blog": 7,
+      "nom_utilisateur": "Vince",
+      "contenu": "Hey ! C'est moi, je suis de retour de mes occupations du week-end ! \nDésolé, j'aurais peut-être dû prévenir que je m'absenterais aussi longtemps, c'est généralement le cas le samedi-dimanche, raisons perso\n\nMais j'ai bien lu tout ce que tu m'avais envoyé et je dois t'avouer en être resté bouche bée ! Je te crois toujours, et je pense même que tu pourrais m'aider à donner lieu à un rituel que je pense \"imaginaire\" depuis des années !",
+      "date_publication": "2010-08-23T09:25:26.000000Z",
+      "id_suppression": null,
+      "likes": 0,
+      "partages": 0,
+      "element_supprime_visible": null
+    },
+    {
+      "id": 40,
+      "id_blog": 7,
+      "nom_utilisateur": "Oneiros",
+      "contenu": "Un... rituel ? Je te remercie sincèrement de ta compréhension mais je suis pas sûr de te suivre sur ce coup-là Vince (°ー°〃)",
+      "date_publication": "2010-08-23T11:12:00.000000Z",
+      "id_suppression": null,
+      "likes": 0,
+      "partages": 0,
+      "element_supprime_visible": null
+    },
+    {
+      "id": 41,
+      "id_blog": 7,
+      "nom_utilisateur": "Vince",
+      "contenu": "Ahah je sais bien, mais je t'assure que ça peut devenir fascinant comme sujet ! Voilà le topo : parmi tous les mythes de la Citadelle Rouge, on a la Nuée Noire qui revient souvent comme produit de rituels occultes. Des insectes que l'on pourrait mener où on veut, comme manipulés par les pensées, et qui sont toujours produits dans des circonstances peu reproduisibles\n\nMais toi, je suis sûr que tu pourrais réussir",
+      "date_publication": "2010-08-23T11:14:17.000000Z",
+      "id_suppression": null,
+      "likes": 0,
+      "partages": 0,
+      "element_supprime_visible": null
+    },
+    {
+      "id": 42,
+      "id_blog": 7,
+      "nom_utilisateur": "Oneiros",
+      "contenu": "Ok... [Quelque chose dans ce genre-là](https://www.blogvacare.com/wiki/article/rituel-de-recrudescence/) ? Je suis pas sûr de vouloir profaner des tombes...",
+      "date_publication": "2010-08-23T11:21:18.000000Z",
+      "id_suppression": null,
+      "likes": 0,
+      "partages": 0,
+      "element_supprime_visible": null
+    },
+    {
+      "id": 43,
+      "id_blog": 7,
+      "nom_utilisateur": "Vince",
+      "contenu": "Pas ce rituel précis, mais quelque chose de proche ! Et c'est justement dans l'imaginaire que réside toute la nuance à mes yeux ! \n\nJe crois en ta théorie, et je pense particulièrement que ces rituels sont un produit de l'Imaginaire. Que si de nombreuses personnes n'y arrivent pas, c'est parce qu'elles n'auraient pas la \"vision\" nécessaire à la production de ces nuées. Mais toi, tu saurais y arriver, ça pourrait être ton propre \"dragon\"",
+      "date_publication": "2010-08-23T11:23:42.000000Z",
+      "id_suppression": null,
+      "likes": 0,
+      "partages": 0,
+      "element_supprime_visible": null
+    },
+    {
+      "id": 44,
+      "id_blog": 7,
+      "nom_utilisateur": "Oneiros",
+      "contenu": "Laisse-moi juste quelques temps pour y réfléchir, je suis vraiment pas sûr de ce coup-là, je ne sais pas... ",
+      "date_publication": "2010-08-23T13:51:18.000000Z",
+      "id_suppression": null,
+      "likes": 0,
+      "partages": 0,
+      "element_supprime_visible": null
+    },
+    {
+      "id": 45,
+      "id_blog": 7,
+      "nom_utilisateur": "Vince",
+      "contenu": "Prends tout le temps qu'il te faut, de mon côté, je vais faire du repérage pour qu'on se fasse ça dans les meilleures conditions possibles !",
+      "date_publication": "2010-08-23T14:00:00.000000Z",
+      "id_suppression": null,
+      "likes": 0,
+      "partages": 0,
+      "element_supprime_visible": null
+    }
+  ],
+  "element_supprime_visible": null
+}

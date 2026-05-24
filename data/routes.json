@@ -1,0 +1,106 @@
+{
+  "modern": {
+    "dossiers": [
+      {
+        "slugDossier": "blog-de-vacare"
+      },
+      {
+        "slugDossier": "imaginez-tout"
+      }
+    ],
+    "blogs": [
+      {
+        "slugDossier": "blog-de-vacare",
+        "slugBlog": "fuite-de-donnees"
+      },
+      {
+        "slugDossier": "imaginez-tout",
+        "slugBlog": "limaginaire-au-quotidien"
+      },
+      {
+        "slugDossier": "imaginez-tout",
+        "slugBlog": "mythes-modernes-et-filmes"
+      },
+      {
+        "slugDossier": "imaginez-tout",
+        "slugBlog": "recoucou-vincent"
+      },
+      {
+        "slugDossier": "imaginez-tout",
+        "slugBlog": "je-suis-de-retour"
+      },
+      {
+        "slugDossier": "imaginez-tout",
+        "slugBlog": "imagine-tout"
+      },
+      {
+        "slugDossier": "imaginez-tout",
+        "slugBlog": "faits-historiques"
+      },
+      {
+        "slugDossier": "imaginez-tout",
+        "slugBlog": "je-suis-pret"
+      },
+      {
+        "slugDossier": "imaginez-tout",
+        "slugBlog": "bienvenue-chez-avos-community"
+      }
+    ]
+  },
+  "old": {
+    "dossiers": [
+      {
+        "slugDossier": "blog-de-vacare"
+      },
+      {
+        "slugDossier": "imaginez-tout"
+      }
+    ],
+    "blogs": [
+      {
+        "slugDossier": "blog-de-vacare",
+        "slugBlog": "fuite-de-donnees"
+      },
+      {
+        "slugDossier": "blog-de-vacare",
+        "slugBlog": "suspicions"
+      },
+      {
+        "slugDossier": "imaginez-tout",
+        "slugBlog": "mon-experience-personnelle"
+      },
+      {
+        "slugDossier": "imaginez-tout",
+        "slugBlog": "limaginaire-au-quotidien"
+      },
+      {
+        "slugDossier": "imaginez-tout",
+        "slugBlog": "mythes-modernes-et-filmes"
+      },
+      {
+        "slugDossier": "imaginez-tout",
+        "slugBlog": "recoucou-vincent"
+      },
+      {
+        "slugDossier": "imaginez-tout",
+        "slugBlog": "je-suis-de-retour"
+      },
+      {
+        "slugDossier": "imaginez-tout",
+        "slugBlog": "imagine-tout"
+      },
+      {
+        "slugDossier": "imaginez-tout",
+        "slugBlog": "faits-historiques"
+      },
+      {
+        "slugDossier": "imaginez-tout",
+        "slugBlog": "je-suis-pret"
+      },
+      {
+        "slugDossier": "imaginez-tout",
+        "slugBlog": "bienvenue-chez-avos-community"
+      }
+    ]
+  }
+}

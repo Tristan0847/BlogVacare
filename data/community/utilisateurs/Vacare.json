@@ -1,0 +1,11 @@
+{
+  "utilisateur": {
+    "nom_utilisateur": "Vacare",
+    "est_admin": 1,
+    "description": null,
+    "banniere": "vacare.png",
+    "created_at": "2020-03-17T00:08:47.000000Z",
+    "updated_at": "2020-03-17T00:08:47.000000Z"
+  },
+  "blogs": []
+}

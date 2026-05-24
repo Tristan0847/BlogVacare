@@ -1,0 +1,30 @@
+[
+  {
+    "id": 1,
+    "id_blog": 4,
+    "nom_utilisateur": "RobertC",
+    "contenu": "Cher Vacare,\r\nRare se fait la nécessité de vous écrire et vous comprendrez bien que je n'exigerais pas votre présence si l'urgence n'était pas de mise.\r\nComme je vous l'expliquais précédemment, le Docteur a finalement jugé bon de trahir N0Realis. Je suis activement sur ses traces et lui remettrai sa lettre de licenciement en bonne et due forme.\r\nMais il a laissé derrière lui ce qui est probablement la plus grande fuite de données qu'ait connu N0Realis à ce jour.\r\n\r\nBien cordialement,\r\nRobert C.",
+    "date_publication": "2025-12-12T18:47:39.000000Z",
+    "id_suppression": null,
+    "likes": 0,
+    "partages": 0,
+    "element_supprime_visible": null
+  },
+  {
+    "id": 28,
+    "id_blog": 4,
+    "nom_utilisateur": "Vacare",
+    "contenu": "Bien, je ferai le nécessaire.",
+    "date_publication": "2025-12-24T08:47:00.000000Z",
+    "id_suppression": 21,
+    "likes": 0,
+    "partages": 0,
+    "element_supprime_visible": {
+      "id": 21,
+      "nom_utilisateur": "Vacare",
+      "raison_suppression": "",
+      "date_suppression": "2025-12-24T08:57:00.000000Z",
+      "cache": 0
+    }
+  }
+]

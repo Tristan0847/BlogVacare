@@ -1,0 +1,23 @@
+[
+  {
+    "id": 4,
+    "titre": "Fuite de données",
+    "slug": "fuite-de-donnees",
+    "id_dossier": 1,
+    "nom_utilisateur": "RobertC",
+    "id_suppression": null,
+    "date_creation": "2025-12-12T18:47:39.000000Z",
+    "messages": [],
+    "element_supprime_visible": null,
+    "premier_message": {
+      "id": 1,
+      "id_blog": 4,
+      "nom_utilisateur": "RobertC",
+      "contenu": "Cher Vacare,\r\nRare se fait la nécessité de vous écrire et vous comprendrez bien que je n'exigerais pas votre présence si l'urgence n'était pas de mise.\r\nComme je vous l'expliquais précédemment, le Docteur a finalement jugé bon de trahir N0Realis. Je...",
+      "date_publication": "2025-12-12T18:47:39.000000Z",
+      "id_suppression": null,
+      "likes": 0,
+      "partages": 0
+    }
+  }
+]
