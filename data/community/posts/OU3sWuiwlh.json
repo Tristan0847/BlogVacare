@@ -1,0 +1,73 @@
+{
+  "id": 27,
+  "titre": "",
+  "slug": "OU3sWuiwlh",
+  "id_dossier": null,
+  "nom_utilisateur": "La Baronesa",
+  "id_suppression": null,
+  "date_creation": "2009-01-08T09:21:11.000000Z",
+  "nombre_reponses": 5,
+  "messages": [
+    {
+      "id": 93,
+      "id_blog": 27,
+      "nom_utilisateur": "La Baronesa",
+      "contenu": "«Et Il lui dit : \"Tu tendras la main car tu as été accepté parmi nous. Ta place est sienne, sa place est tienne. Nulle différence face à l'Unité.\"», Livre de la Citadelle Rouge, 05:14. La Baronesa ici présente, entendons-nous comme il se doit, compagnons.",
+      "date_publication": "2009-01-08T09:21:11.000000Z",
+      "id_suppression": null,
+      "likes": 18,
+      "partages": 4,
+      "media": "post-medias/27/la-baronesa-rxSGEL.jpg",
+      "element_supprime_visible": null
+    },
+    {
+      "id": 94,
+      "id_blog": 27,
+      "nom_utilisateur": "El Baron",
+      "contenu": "Somptueuse citation !",
+      "date_publication": "2009-01-08T09:29:45.000000Z",
+      "id_suppression": null,
+      "likes": 5,
+      "partages": 0,
+      "media": null,
+      "element_supprime_visible": null
+    },
+    {
+      "id": 95,
+      "id_blog": 27,
+      "nom_utilisateur": "DrOwl",
+      "contenu": "Bienvenue à vous, sacré sens du spectacle en tout cas !",
+      "date_publication": "2009-01-08T12:20:10.000000Z",
+      "id_suppression": null,
+      "likes": 16,
+      "partages": 2,
+      "media": null,
+      "element_supprime_visible": null
+    },
+    {
+      "id": 96,
+      "id_blog": 27,
+      "nom_utilisateur": "Vince",
+      "contenu": "Bienvenue à vous, Baronesa, merci d'avoir accepté mon invitation",
+      "date_publication": "2009-01-08T12:31:34.000000Z",
+      "id_suppression": null,
+      "likes": 1,
+      "partages": 0,
+      "media": null,
+      "element_supprime_visible": null
+    },
+    {
+      "id": 97,
+      "id_blog": 27,
+      "nom_utilisateur": "La Baronesa",
+      "contenu": "C'est à moi de vous exprimer ma gratitude, jeune Vincent, je vous en prie !",
+      "date_publication": "2009-01-08T14:19:34.000000Z",
+      "id_suppression": null,
+      "likes": 4,
+      "partages": 0,
+      "media": null,
+      "element_supprime_visible": null
+    }
+  ],
+  "element_supprime_visible": null
+}

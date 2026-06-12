@@ -1,0 +1,61 @@
+{
+  "id": 34,
+  "titre": "",
+  "slug": "SJKFFlR2Lq",
+  "id_dossier": null,
+  "nom_utilisateur": "El Baron",
+  "id_suppression": null,
+  "date_creation": "2009-02-15T09:00:08.000000Z",
+  "nombre_reponses": 4,
+  "messages": [
+    {
+      "id": 137,
+      "id_blog": 34,
+      "nom_utilisateur": "El Baron",
+      "contenu": "\"Était-ce une pareille Unité qu'il cherchait ? Ou tiendrait-il égoïstement à son individualité ? La certitude se lisait dans l'audience, lui seul pouvait répondre à leurs convictions, mais lui seul pouvait réellement en douter. Observant l'assurance dans leurs regards, il ne pouvait qu'omettre ses appréhensions en faveur du plus grand dessein.\"\r\nLivre de la Citadelle Rouge, 05:08-10. Si vous ne pouvez avoir foi en vos décisions, alors ayez foi en ceux qui l'auront",
+      "date_publication": "2009-02-15T09:00:08.000000Z",
+      "id_suppression": null,
+      "likes": 43,
+      "partages": 5,
+      "media": "post-medias/34/citation-de-la-semaine-N19dof.jpg",
+      "element_supprime_visible": null
+    },
+    {
+      "id": 138,
+      "id_blog": 34,
+      "nom_utilisateur": "Vince",
+      "contenu": "L'unité plutôt que le doute, inspirant",
+      "date_publication": "2009-02-15T12:16:46.000000Z",
+      "id_suppression": null,
+      "likes": 5,
+      "partages": 1,
+      "media": null,
+      "element_supprime_visible": null
+    },
+    {
+      "id": 139,
+      "id_blog": 34,
+      "nom_utilisateur": "Edmond2809",
+      "contenu": "Euhhh il lui arrive quoi au pauvre gars qui a l'air sur le point de se faire dessus sur scène par la suite ?",
+      "date_publication": "2009-02-15T12:36:20.000000Z",
+      "id_suppression": null,
+      "likes": 2,
+      "partages": 1,
+      "media": null,
+      "element_supprime_visible": null
+    },
+    {
+      "id": 140,
+      "id_blog": 34,
+      "nom_utilisateur": "Ant",
+      "contenu": "Il fait sa présentation en obéissant à une influence \"divinement extérieure\" et arrive à convaincre le peuple de faire tout un tas de trucs pas aussi inspirants pour lui",
+      "date_publication": "2009-02-15T13:12:57.000000Z",
+      "id_suppression": null,
+      "likes": 25,
+      "partages": 8,
+      "media": null,
+      "element_supprime_visible": null
+    }
+  ],
+  "element_supprime_visible": null
+}

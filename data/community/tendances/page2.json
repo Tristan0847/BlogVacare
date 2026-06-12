@@ -2,50 +2,220 @@
   "current_page": 2,
   "data": [
     {
-      "id": 4,
-      "titre": "Fuite de données",
-      "slug": "fuite-de-donnees",
-      "id_dossier": 1,
-      "nom_utilisateur": "RobertC",
+      "id": 34,
+      "titre": "",
+      "slug": "SJKFFlR2Lq",
+      "id_dossier": null,
+      "nom_utilisateur": "El Baron",
       "id_suppression": null,
-      "date_creation": "2025-12-12T18:47:39.000000Z",
-      "nombre_reponses": 2,
+      "date_creation": "2009-02-15T09:00:08.000000Z",
+      "nombre_reponses": 4,
       "message_post": {
-        "id": 1,
-        "id_blog": 4,
-        "nom_utilisateur": "RobertC",
-        "contenu": "Cher Vacare,\r\nRare se fait la nécessité de vous écrire et vous comprendrez bien que je n'exigerais pas votre présence si l'urgence n'était pas de mise.\r\nComme je vous l'expliquais précédemment, le Docteur a finalement jugé bon de trahir N0Realis. Je...",
-        "date_publication": "2025-12-12T18:47:39.000000Z",
+        "id": 137,
+        "id_blog": 34,
+        "nom_utilisateur": "El Baron",
+        "contenu": "\"Était-ce une pareille Unité qu'il cherchait ? Ou tiendrait-il égoïstement à son individualité ? La certitude se lisait dans l'audience, lui seul pouvait répondre à leurs convictions, mais lui seul pouvait réellement en douter. Observant l'assurance...",
+        "date_publication": "2009-02-15T09:00:08.000000Z",
         "id_suppression": null,
-        "likes": 0,
-        "partages": 0
+        "likes": 43,
+        "partages": 5,
+        "media": "post-medias/34/citation-de-la-semaine-N19dof.jpg"
       }
     },
     {
-      "id": 17,
-      "titre": "Bienvenue chez AVOS Community !",
-      "slug": "bienvenue-chez-avos-community",
-      "id_dossier": 2,
+      "id": 14,
+      "titre": "",
+      "slug": "9lIY5NaxPN",
+      "id_dossier": null,
+      "nom_utilisateur": "DrOwl",
+      "id_suppression": null,
+      "date_creation": "2009-01-01T12:08:18.000000Z",
+      "nombre_reponses": 3,
+      "message_post": {
+        "id": 58,
+        "id_blog": 14,
+        "nom_utilisateur": "DrOwl",
+        "contenu": "Bonjour à tous et bienvenue chez AVOS Community !\nOn a mis en place ce site avec Ant et Vincent pour rassembler et agrandir nos communautés respectives. Les accès sont, pour le moment, limités aux likes et partages mais on ajoutera des membres dès la...",
+        "date_publication": "2009-01-01T12:08:18.000000Z",
+        "id_suppression": null,
+        "likes": 28,
+        "partages": 7,
+        "media": null
+      }
+    },
+    {
+      "id": 41,
+      "titre": "",
+      "slug": "CQZifPcRaT",
+      "id_dossier": null,
+      "nom_utilisateur": "La Baronesa",
+      "id_suppression": null,
+      "date_creation": "2009-06-02T21:00:10.000000Z",
+      "nombre_reponses": 5,
+      "message_post": {
+        "id": 182,
+        "id_blog": 41,
+        "nom_utilisateur": "La Baronesa",
+        "contenu": "\"Le messager lui tendit la main et lui souffla les mots qu'il désirait entendre : il lui dit que son temps était compté, et qu'il Le rejoindrait tantôt. Il lui dit qu'il quitterait ce monde dans la souffrance et que ce mal était fondamental. Mais que...",
+        "date_publication": "2009-06-02T21:00:10.000000Z",
+        "id_suppression": null,
+        "likes": 30,
+        "partages": 6,
+        "media": "post-medias/41/citation-de-la-semaine-fxjiex.jpg"
+      }
+    },
+    {
+      "id": 35,
+      "titre": "",
+      "slug": "a1dHERxfaX",
+      "id_dossier": null,
+      "nom_utilisateur": "Edmond2809",
+      "id_suppression": null,
+      "date_creation": "2009-02-20T18:41:29.000000Z",
+      "nombre_reponses": 5,
+      "message_post": {
+        "id": 141,
+        "id_blog": 35,
+        "nom_utilisateur": "Edmond2809",
+        "contenu": "OK 'Bauk, faut que je te partage un truc que j'ai vu : y a pas longtemps jme balade tranquille dans la rue et c'est pas je tombe sur la CREME DE KANGOUROU. Genre une boîte à la con qu'un type chelou proposait de vendre pour un prix inédit, je te cach...",
+        "date_publication": "2009-02-20T18:41:29.000000Z",
+        "id_suppression": null,
+        "likes": 29,
+        "partages": 6,
+        "media": null
+      }
+    },
+    {
+      "id": 39,
+      "titre": "",
+      "slug": "78RcuELBgw",
+      "id_dossier": null,
+      "nom_utilisateur": "Ant",
+      "id_suppression": null,
+      "date_creation": "2009-05-12T12:40:41.000000Z",
+      "nombre_reponses": 7,
+      "message_post": {
+        "id": 167,
+        "id_blog": 39,
+        "nom_utilisateur": "Ant",
+        "contenu": "Est-ce que comme moi, vous avez déjà eu envie de changer d'air ? Pas juste partir en vacances, changer de travail ou renouveler votre entourage mais vraiment de changer de vie. Laisser tout, tout le monde, tout ce que vous avez et auriez pu avoir der...",
+        "date_publication": "2009-05-12T12:40:41.000000Z",
+        "id_suppression": null,
+        "likes": 28,
+        "partages": 6,
+        "media": null
+      }
+    },
+    {
+      "id": 27,
+      "titre": "",
+      "slug": "OU3sWuiwlh",
+      "id_dossier": null,
+      "nom_utilisateur": "La Baronesa",
+      "id_suppression": null,
+      "date_creation": "2009-01-08T09:21:11.000000Z",
+      "nombre_reponses": 5,
+      "message_post": {
+        "id": 93,
+        "id_blog": 27,
+        "nom_utilisateur": "La Baronesa",
+        "contenu": "«Et Il lui dit : \"Tu tendras la main car tu as été accepté parmi nous. Ta place est sienne, sa place est tienne. Nulle différence face à l'Unité.\"», Livre de la Citadelle Rouge, 05:14. La Baronesa ici présente, entendons-nous comme il se doit, compag...",
+        "date_publication": "2009-01-08T09:21:11.000000Z",
+        "id_suppression": null,
+        "likes": 18,
+        "partages": 4,
+        "media": "post-medias/27/la-baronesa-rxSGEL.jpg"
+      }
+    },
+    {
+      "id": 26,
+      "titre": "",
+      "slug": "pa9gJlqKJI",
+      "id_dossier": null,
+      "nom_utilisateur": "El Baron",
+      "id_suppression": null,
+      "date_creation": "2009-01-08T09:01:32.000000Z",
+      "nombre_reponses": 5,
+      "message_post": {
+        "id": 88,
+        "id_blog": 26,
+        "nom_utilisateur": "El Baron",
+        "contenu": "«Et Il lui dit : \"Tu feras de nouvelles rencontres, salueras ton prochain, et te lieras à d'autres. Car tu es mien, et par toi ils deviendront nôtres.\"», Livre de la Citadelle Rouge, 05:13. Mes plus sincères salutations à vous tous. El Baron pour vou...",
+        "date_publication": "2009-01-08T09:01:32.000000Z",
+        "id_suppression": null,
+        "likes": 15,
+        "partages": 5,
+        "media": "post-medias/26/el-baron-Gp0ika.jpg"
+      }
+    },
+    {
+      "id": 37,
+      "titre": "",
+      "slug": "CKKFqc440u",
+      "id_dossier": null,
+      "nom_utilisateur": "J-P",
+      "id_suppression": null,
+      "date_creation": "2009-04-05T22:38:49.000000Z",
+      "nombre_reponses": 7,
+      "message_post": {
+        "id": 155,
+        "id_blog": 37,
+        "nom_utilisateur": "J-P",
+        "contenu": "g vu un documentaire sur les kangourous ce soir. Jen aurai rien eu a foutre d'habitude mais avec tout ce qui spasse ici, bah g fini le cul cloué sur le canap pendant 3h quoi",
+        "date_publication": "2009-04-05T22:38:49.000000Z",
+        "id_suppression": null,
+        "likes": 8,
+        "partages": 3,
+        "media": null
+      }
+    },
+    {
+      "id": 29,
+      "titre": "",
+      "slug": "6JJtZrxsiU",
+      "id_dossier": null,
+      "nom_utilisateur": "Edmond2809",
+      "id_suppression": null,
+      "date_creation": "2009-01-19T07:21:50.000000Z",
+      "nombre_reponses": 4,
+      "message_post": {
+        "id": 105,
+        "id_blog": 29,
+        "nom_utilisateur": "Edmond2809",
+        "contenu": "Yo, j'ai été ajouté par Vince sur le site, je suis surtout là pour raconter ma vie, des trucs au pif que je fais, tenter de rendre le quotidien un peu moins seul",
+        "date_publication": "2009-01-19T07:21:50.000000Z",
+        "id_suppression": null,
+        "likes": 5,
+        "partages": 2,
+        "media": null
+      }
+    },
+    {
+      "id": 28,
+      "titre": "",
+      "slug": "mvTsn2t8cL",
+      "id_dossier": null,
       "nom_utilisateur": "Vince",
       "id_suppression": null,
-      "date_creation": "2010-08-27T17:49:37.000000Z",
-      "nombre_reponses": 2,
+      "date_creation": "2009-01-18T13:15:31.000000Z",
+      "nombre_reponses": 7,
       "message_post": {
-        "id": 68,
-        "id_blog": 17,
+        "id": 98,
+        "id_blog": 28,
         "nom_utilisateur": "Vince",
-        "contenu": "C'est tout bon, tu devrais avoir accès à l'autre version du site, je te présente [AVOS Community](https://www.blogvacare.com/community) !",
-        "date_publication": "2010-08-27T17:49:37.000000Z",
+        "contenu": "Hey, je vous annonce l'arrivée d'Edmond, JP ainsi que d'un certain \"JeVeuxMeBattreAvecUnKangourou\", on les accueille bien comme il faut s'il vous plaît !",
+        "date_publication": "2009-01-18T13:15:31.000000Z",
         "id_suppression": null,
-        "likes": 0,
-        "partages": 0
+        "likes": 4,
+        "partages": 2,
+        "media": null
       }
     }
   ],
   "first_page_url": "http://localhost:8000/api/communaute/blogs?page=1",
   "from": 11,
-  "last_page": 2,
-  "last_page_url": "http://localhost:8000/api/communaute/blogs?page=2",
+  "last_page": 4,
+  "last_page_url": "http://localhost:8000/api/communaute/blogs?page=4",
   "links": [
     {
       "url": "http://localhost:8000/api/communaute/blogs?page=1",
@@ -66,16 +236,28 @@
       "active": true
     },
     {
-      "url": null,
+      "url": "http://localhost:8000/api/communaute/blogs?page=3",
+      "label": "3",
+      "page": 3,
+      "active": false
+    },
+    {
+      "url": "http://localhost:8000/api/communaute/blogs?page=4",
+      "label": "4",
+      "page": 4,
+      "active": false
+    },
+    {
+      "url": "http://localhost:8000/api/communaute/blogs?page=3",
       "label": "Next &raquo;",
-      "page": null,
+      "page": 3,
       "active": false
     }
   ],
-  "next_page_url": null,
+  "next_page_url": "http://localhost:8000/api/communaute/blogs?page=3",
   "path": "http://localhost:8000/api/communaute/blogs",
   "per_page": 10,
   "prev_page_url": "http://localhost:8000/api/communaute/blogs?page=1",
-  "to": 12,
-  "total": 12
+  "to": 20,
+  "total": 35
 }

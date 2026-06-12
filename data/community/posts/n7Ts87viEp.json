@@ -1,0 +1,109 @@
+{
+  "id": 31,
+  "titre": "",
+  "slug": "n7Ts87viEp",
+  "id_dossier": null,
+  "nom_utilisateur": "JeVeuxMeBattreAvecUnKangourou",
+  "id_suppression": null,
+  "date_creation": "2009-01-30T08:52:38.000000Z",
+  "nombre_reponses": 8,
+  "messages": [
+    {
+      "id": 116,
+      "id_blog": 31,
+      "nom_utilisateur": "JeVeuxMeBattreAvecUnKangourou",
+      "contenu": "Certains croient que je suis qu'un gamin qui croit que la force purement physique fait tout, sachez que j'ai réfléchi mon projet dans tous ses aspects : tel un boxeur, je dois savoir prédire les coups de mon adversaire. Il faut déjà savoir qu'un kangourou c'est musclé, genre TRES musclé. Il peut mordre, griffer, frapper avec ses petites pates, donner des coups de pied, en bref, il a une réserve de coups très raffinés à déjouer. Mon plan ? Acquérir une musculature au moins aussi puissante pour pouvoir y résister, être assez agile pour esquiver, assez léger à la fois pour ne pas me laisser avoir à la vitesse. Il y a un réel jeu d'équilibre à acquérir si je veux réussir à avoir l'un d'entre eux",
+      "date_publication": "2009-01-30T08:52:38.000000Z",
+      "id_suppression": null,
+      "likes": 85,
+      "partages": 16,
+      "media": "post-medias/31/kangaroos-c1819-slnsw-fl8999009-YG4lAs.jpg",
+      "element_supprime_visible": null
+    },
+    {
+      "id": 117,
+      "id_blog": 31,
+      "nom_utilisateur": "JeVeuxMeBattreAvecUnKangourou",
+      "contenu": "J'ai pas fini, la suite arrive ce soir",
+      "date_publication": "2009-01-30T08:57:10.000000Z",
+      "id_suppression": null,
+      "likes": 50,
+      "partages": 2,
+      "media": null,
+      "element_supprime_visible": null
+    },
+    {
+      "id": 118,
+      "id_blog": 31,
+      "nom_utilisateur": "Edmond2809",
+      "contenu": "C'est presque terrifiant un dévouement pareil pour ce but bien précis xD",
+      "date_publication": "2009-01-30T12:08:41.000000Z",
+      "id_suppression": null,
+      "likes": 32,
+      "partages": 5,
+      "media": null,
+      "element_supprime_visible": null
+    },
+    {
+      "id": 119,
+      "id_blog": 31,
+      "nom_utilisateur": "J-P",
+      "contenu": "Si c pas indiscret, tu fais quel taille ?",
+      "date_publication": "2009-01-30T14:39:37.000000Z",
+      "id_suppression": null,
+      "likes": 21,
+      "partages": 1,
+      "media": null,
+      "element_supprime_visible": null
+    },
+    {
+      "id": 120,
+      "id_blog": 31,
+      "nom_utilisateur": "JeVeuxMeBattreAvecUnKangourou",
+      "contenu": "Très belle question et je reprendrai sur ça ! Y a plusieurs espèces de kangourous, chacun de taille différentes : ça peut aller de 1m60 à 2m pour les plus grands. De mon côté, je fais 1m72 et je compte bien trouver adversaire à ma taille pour ne pas créer d'inégalité !",
+      "date_publication": "2009-01-30T17:53:13.000000Z",
+      "id_suppression": null,
+      "likes": 61,
+      "partages": 13,
+      "media": null,
+      "element_supprime_visible": null
+    },
+    {
+      "id": 121,
+      "id_blog": 31,
+      "nom_utilisateur": "Ant",
+      "contenu": "J'aime ton sens de la pédagogie, je connais un coin qui aurait bien besoin de ce genre de talents",
+      "date_publication": "2009-01-30T18:26:41.000000Z",
+      "id_suppression": null,
+      "likes": 28,
+      "partages": 3,
+      "media": null,
+      "element_supprime_visible": null
+    },
+    {
+      "id": 122,
+      "id_blog": 31,
+      "nom_utilisateur": "Edmond2809",
+      "contenu": "Wow, il en faudra de la détermination pour encaisser des coups pareils, bon courage hein",
+      "date_publication": "2009-01-30T18:46:17.000000Z",
+      "id_suppression": null,
+      "likes": 16,
+      "partages": 4,
+      "media": null,
+      "element_supprime_visible": null
+    },
+    {
+      "id": 123,
+      "id_blog": 31,
+      "nom_utilisateur": "JeVeuxMeBattreAvecUnKangourou",
+      "contenu": "Bon courage à mon adversaire oui ! Je compte bien ne rien encaisser dans la mesure du possible !",
+      "date_publication": "2009-01-30T19:19:50.000000Z",
+      "id_suppression": null,
+      "likes": 68,
+      "partages": 14,
+      "media": null,
+      "element_supprime_visible": null
+    }
+  ],
+  "element_supprime_visible": null
+}

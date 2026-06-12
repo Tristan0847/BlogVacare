@@ -1,0 +1,73 @@
+{
+  "id": 41,
+  "titre": "",
+  "slug": "CQZifPcRaT",
+  "id_dossier": null,
+  "nom_utilisateur": "La Baronesa",
+  "id_suppression": null,
+  "date_creation": "2009-06-02T21:00:10.000000Z",
+  "nombre_reponses": 5,
+  "messages": [
+    {
+      "id": 182,
+      "id_blog": 41,
+      "nom_utilisateur": "La Baronesa",
+      "contenu": "\"Le messager lui tendit la main et lui souffla les mots qu'il désirait entendre : il lui dit que son temps était compté, et qu'il Le rejoindrait tantôt. Il lui dit qu'il quitterait ce monde dans la souffrance et que ce mal était fondamental. Mais que nul homme ne devrait demeurer seul dans le trépas, et qu'il l'accompagnerait jusqu'à la fin.\"\r\nLivre de la Citadelle Rouge, 08:08-10. Nous ne sommes que passagers en ces terres, mais éternels dans notre âme.",
+      "date_publication": "2009-06-02T21:00:10.000000Z",
+      "id_suppression": null,
+      "likes": 30,
+      "partages": 6,
+      "media": "post-medias/41/citation-de-la-semaine-fxjiex.jpg",
+      "element_supprime_visible": null
+    },
+    {
+      "id": 183,
+      "id_blog": 41,
+      "nom_utilisateur": "Edmond2809",
+      "contenu": "C'est beau, ça me fait penser à un proche ayant passé l'arme à gauche il y a peu, qu'il repose en paix où qu'il soit aujourd'hui",
+      "date_publication": "2009-06-02T21:53:39.000000Z",
+      "id_suppression": null,
+      "likes": 16,
+      "partages": 3,
+      "media": null,
+      "element_supprime_visible": null
+    },
+    {
+      "id": 184,
+      "id_blog": 41,
+      "nom_utilisateur": "JeVeuxMeFaireBattreParUnKangourou",
+      "contenu": "Le kangourou qui me mettrait à mal et m'enverrait dans les bras de Morphée... Cet extrait me plaît bien",
+      "date_publication": "2009-06-02T22:19:17.000000Z",
+      "id_suppression": null,
+      "likes": 19,
+      "partages": 3,
+      "media": null,
+      "element_supprime_visible": null
+    },
+    {
+      "id": 185,
+      "id_blog": 41,
+      "nom_utilisateur": "JeVeuxMeBattreAvecUnKangourou",
+      "contenu": "Imposteur ! Il n'y a nulle satisfaction à trouver la mort dans ses rêves, il faut les réaliser et espérer le surpasser dans le vide créé par sa réalisation ! Tu ne dois JAMAIS arrêter de rêver",
+      "date_publication": "2009-06-02T22:36:32.000000Z",
+      "id_suppression": null,
+      "likes": 38,
+      "partages": 10,
+      "media": null,
+      "element_supprime_visible": null
+    },
+    {
+      "id": 186,
+      "id_blog": 41,
+      "nom_utilisateur": "JeVeuxMeFaireBattreParUnKangourou",
+      "contenu": "Merci de votre conseil, je n'avais jamais envisagé la suite... Un rêve au-delà du rêve donc...",
+      "date_publication": "2009-06-02T22:54:11.000000Z",
+      "id_suppression": null,
+      "likes": 22,
+      "partages": 6,
+      "media": null,
+      "element_supprime_visible": null
+    }
+  ],
+  "element_supprime_visible": null
+}

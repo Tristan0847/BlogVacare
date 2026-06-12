@@ -1,0 +1,139 @@
+{
+  "id": 46,
+  "titre": "",
+  "slug": "Q4uSFpr2ku",
+  "id_dossier": null,
+  "nom_utilisateur": "Edmond2809",
+  "id_suppression": 29,
+  "date_creation": "2009-08-09T04:08:50.000000Z",
+  "nombre_reponses": 10,
+  "messages": [
+    {
+      "id": 207,
+      "id_blog": 46,
+      "nom_utilisateur": "Edmond2809",
+      "contenu": "Je vous ai pas tout dit. J'ai été silencieux, Bauk aussi pour des raisons évidentes... mais JP aussi. C'est pas le match en lui-même qui a blessé Bauk, au contraire, il l'a gagné haut la main, il avait un avenir radieux. Je l'ai retrouvé lui et JP juste après, on a bu un coup ensemble, on a parlé de plusieurs trucs, notamment de kangourous bien sûr, et c'est au moment de se quitter que les choses ont dégénéré...",
+      "date_publication": "2009-08-09T04:08:50.000000Z",
+      "id_suppression": null,
+      "likes": 6,
+      "partages": 2,
+      "media": null,
+      "element_supprime_visible": null
+    },
+    {
+      "id": 208,
+      "id_blog": 46,
+      "nom_utilisateur": "Ant",
+      "contenu": "JP ? Ce serait lui qui aurait tout causé selon toi ?",
+      "date_publication": "2009-08-09T04:31:13.000000Z",
+      "id_suppression": null,
+      "likes": 3,
+      "partages": 0,
+      "media": null,
+      "element_supprime_visible": null
+    },
+    {
+      "id": 209,
+      "id_blog": 46,
+      "nom_utilisateur": "Edmond2809",
+      "contenu": "Je sais pas, je vois flou, tout ce que je sais c'est qu'on s'est dit au revoir, mais qu'au moment d'entrer dans ma voiture, j'ai vu quelqu'un s'enfuir pendant que Bauk était au sol, le dos planté, et JP n'était nulle part à partir de ce moment... Mais je ne veux pas l'accuser de quoi que ce soit, on a passé une belle soirée avec lui et il est parti en même temps que nous. Mais son silence sur AVOS, la corpulence de ce fumier qui l'a planté, la coïncidence que ça arrive ce jour précis, à cette heure précise...",
+      "date_publication": "2009-08-09T04:49:44.000000Z",
+      "id_suppression": null,
+      "likes": 2,
+      "partages": 0,
+      "media": null,
+      "element_supprime_visible": null
+    },
+    {
+      "id": 210,
+      "id_blog": 46,
+      "nom_utilisateur": "DrOwl",
+      "contenu": "Edmond, je suis sincèrement désolé. Si tu dis vrai alors je me sens responsable d'avoir laissé une telle rencontre avoir lieu depuis ce site, j'aurais moi-même dû être plus strict donc si quelqu'un est à blâmer, ça n'est nul autre que moi, cher Edmond.",
+      "date_publication": "2009-08-09T04:56:26.000000Z",
+      "id_suppression": null,
+      "likes": 1,
+      "partages": 0,
+      "media": null,
+      "element_supprime_visible": null
+    },
+    {
+      "id": 211,
+      "id_blog": 46,
+      "nom_utilisateur": "Ant",
+      "contenu": "On comprendra que tu veuilles nous quitter, tu pourrais juste nous renseigner l'adresse où serait hospitalisé Bauk que l'on puisse au moins lui déposer des fleurs et l'accompagner dans son rétablissement ?",
+      "date_publication": "2009-08-09T05:08:35.000000Z",
+      "id_suppression": null,
+      "likes": 0,
+      "partages": 0,
+      "media": null,
+      "element_supprime_visible": null
+    },
+    {
+      "id": 212,
+      "id_blog": 46,
+      "nom_utilisateur": "DrOwl",
+      "contenu": "Il ne répondra pas, il a supprimé son compte",
+      "date_publication": "2009-08-09T06:33:15.000000Z",
+      "id_suppression": null,
+      "likes": 0,
+      "partages": 0,
+      "media": null,
+      "element_supprime_visible": null
+    },
+    {
+      "id": 213,
+      "id_blog": 46,
+      "nom_utilisateur": "Ant",
+      "contenu": "Merde putain, il s'est passé quoi au juste ? Et on a rien vu venir en plus ?!",
+      "date_publication": "2009-08-09T06:45:44.000000Z",
+      "id_suppression": null,
+      "likes": 0,
+      "partages": 0,
+      "media": null,
+      "element_supprime_visible": null
+    },
+    {
+      "id": 214,
+      "id_blog": 46,
+      "nom_utilisateur": "DrOwl",
+      "contenu": "C'est normal, y a un peu plus de contexte mais j'en parlerai pas ici",
+      "date_publication": "2009-08-09T06:55:44.000000Z",
+      "id_suppression": null,
+      "likes": 0,
+      "partages": 0,
+      "media": null,
+      "element_supprime_visible": null
+    },
+    {
+      "id": 215,
+      "id_blog": 46,
+      "nom_utilisateur": "Ant",
+      "contenu": "ODL ?",
+      "date_publication": "2009-08-09T07:03:24.000000Z",
+      "id_suppression": null,
+      "likes": 0,
+      "partages": 0,
+      "media": null,
+      "element_supprime_visible": null
+    },
+    {
+      "id": 216,
+      "id_blog": 46,
+      "nom_utilisateur": "DrOwl",
+      "contenu": "ODL oui, page au pif peu importe",
+      "date_publication": "2009-08-09T07:09:38.000000Z",
+      "id_suppression": null,
+      "likes": 0,
+      "partages": 0,
+      "media": null,
+      "element_supprime_visible": null
+    }
+  ],
+  "element_supprime_visible": {
+    "id": 29,
+    "nom_utilisateur": "Ant",
+    "raison_suppression": "À annoncer officiellement plus tard",
+    "date_suppression": "2009-08-09T07:16:30.000000Z",
+    "cache": 0
+  }
+}

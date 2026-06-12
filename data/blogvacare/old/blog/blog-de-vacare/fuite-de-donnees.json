@@ -8,6 +8,7 @@
     "id_suppression": null,
     "likes": 0,
     "partages": 0,
+    "media": null,
     "element_supprime_visible": null
   },
   {
@@ -19,6 +20,7 @@
     "id_suppression": 21,
     "likes": 0,
     "partages": 0,
+    "media": null,
     "element_supprime_visible": {
       "id": 21,
       "nom_utilisateur": "Vacare",

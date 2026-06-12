@@ -1,0 +1,73 @@
+{
+  "id": 38,
+  "titre": "",
+  "slug": "KR5kZcBTAD",
+  "id_dossier": null,
+  "nom_utilisateur": "La Baronesa",
+  "id_suppression": null,
+  "date_creation": "2009-04-16T21:00:21.000000Z",
+  "nombre_reponses": 5,
+  "messages": [
+    {
+      "id": 162,
+      "id_blog": 38,
+      "nom_utilisateur": "La Baronesa",
+      "contenu": "\"Un premier infidèle s'avança et exprima ses doutes. Raisonnablement, puis nerveusement, enfin colériquement. Alors que le messager s'apprêtait à répliquer, craignant un repli collectif, son auditoire se dressa non pas contre lui, mais face à son opposant.\"\r\nLivre de la Citadelle Rouge, 05:20-21.",
+      "date_publication": "2009-04-16T21:00:21.000000Z",
+      "id_suppression": null,
+      "likes": 41,
+      "partages": 8,
+      "media": "post-medias/38/citation-de-la-semaine-WiXa1b.jpg",
+      "element_supprime_visible": null
+    },
+    {
+      "id": 163,
+      "id_blog": 38,
+      "nom_utilisateur": "Ant",
+      "contenu": "Je crois que vous avez juste oublié la dernière ligne de ce chapitre qui fait directement suite à cette jolie scène civilisée ^^",
+      "date_publication": "2009-04-16T21:19:40.000000Z",
+      "id_suppression": null,
+      "likes": 12,
+      "partages": 4,
+      "media": null,
+      "element_supprime_visible": null
+    },
+    {
+      "id": 164,
+      "id_blog": 38,
+      "nom_utilisateur": "Vince",
+      "contenu": "Ant...",
+      "date_publication": "2009-04-16T21:28:06.000000Z",
+      "id_suppression": null,
+      "likes": 1,
+      "partages": 0,
+      "media": null,
+      "element_supprime_visible": null
+    },
+    {
+      "id": 165,
+      "id_blog": 38,
+      "nom_utilisateur": "Ant",
+      "contenu": "Désolé mais je me tairais pas sur ce coup-là, même bouquin, même chapitre, ligne 22 : \"Ils le lapidèrent. Et Il lui dit : \"Nous sommes l'Âme de tout un chacun, et qui n'est pas avec nous est contre nous.\"\"",
+      "date_publication": "2009-04-16T21:48:41.000000Z",
+      "id_suppression": null,
+      "likes": 36,
+      "partages": 19,
+      "media": null,
+      "element_supprime_visible": null
+    },
+    {
+      "id": 166,
+      "id_blog": 38,
+      "nom_utilisateur": "El Baron",
+      "contenu": "Vince, nous ne sommes pas venu ici pour être ainsi blasphémés ! Que cela ne se reproduise plus !",
+      "date_publication": "2009-04-16T22:20:25.000000Z",
+      "id_suppression": null,
+      "likes": 3,
+      "partages": 5,
+      "media": null,
+      "element_supprime_visible": null
+    }
+  ],
+  "element_supprime_visible": null
+}

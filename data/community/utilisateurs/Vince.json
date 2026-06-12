@@ -25,7 +25,8 @@
         "date_publication": "2010-08-27T17:49:37.000000Z",
         "id_suppression": null,
         "likes": 0,
-        "partages": 0
+        "partages": 0,
+        "media": null
       }
     },
     {
@@ -45,7 +46,29 @@
         "date_publication": "2010-08-23T09:25:26.000000Z",
         "id_suppression": null,
         "likes": 0,
-        "partages": 0
+        "partages": 0,
+        "media": null
+      }
+    },
+    {
+      "id": 28,
+      "titre": "",
+      "slug": "mvTsn2t8cL",
+      "id_dossier": null,
+      "nom_utilisateur": "Vince",
+      "id_suppression": null,
+      "date_creation": "2009-01-18T13:15:31.000000Z",
+      "nombre_reponses": 7,
+      "message_post": {
+        "id": 98,
+        "id_blog": 28,
+        "nom_utilisateur": "Vince",
+        "contenu": "Hey, je vous annonce l'arrivée d'Edmond, JP ainsi que d'un certain \"JeVeuxMeBattreAvecUnKangourou\", on les accueille bien comme il faut s'il vous plaît !",
+        "date_publication": "2009-01-18T13:15:31.000000Z",
+        "id_suppression": null,
+        "likes": 4,
+        "partages": 2,
+        "media": null
       }
     },
     {
@@ -65,7 +88,8 @@
         "date_publication": "2009-01-02T06:18:39.000000Z",
         "id_suppression": null,
         "likes": 1,
-        "partages": 1
+        "partages": 1,
+        "media": null
       }
     }
   ]

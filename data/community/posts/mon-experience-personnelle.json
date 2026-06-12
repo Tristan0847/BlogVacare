@@ -17,6 +17,7 @@
       "id_suppression": null,
       "likes": 0,
       "partages": 0,
+      "media": null,
       "element_supprime_visible": null
     },
     {
@@ -28,6 +29,7 @@
       "id_suppression": null,
       "likes": 0,
       "partages": 0,
+      "media": null,
       "element_supprime_visible": null
     }
   ],

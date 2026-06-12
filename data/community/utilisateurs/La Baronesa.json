@@ -1,0 +1,75 @@
+{
+  "utilisateur": {
+    "nom_utilisateur": "La Baronesa",
+    "est_admin": 0,
+    "description": null,
+    "banniere": "la-baronesa.jpg",
+    "created_at": "2009-01-08T07:11:45.000000Z",
+    "updated_at": "2009-01-08T07:11:45.000000Z"
+  },
+  "blogs": [
+    {
+      "id": 41,
+      "titre": "",
+      "slug": "CQZifPcRaT",
+      "id_dossier": null,
+      "nom_utilisateur": "La Baronesa",
+      "id_suppression": null,
+      "date_creation": "2009-06-02T21:00:10.000000Z",
+      "nombre_reponses": 5,
+      "message_post": {
+        "id": 182,
+        "id_blog": 41,
+        "nom_utilisateur": "La Baronesa",
+        "contenu": "\"Le messager lui tendit la main et lui souffla les mots qu'il désirait entendre : il lui dit que son temps était compté, et qu'il Le rejoindrait tantôt. Il lui dit qu'il quitterait ce monde dans la souffrance et que ce mal était fondamental. Mais que...",
+        "date_publication": "2009-06-02T21:00:10.000000Z",
+        "id_suppression": null,
+        "likes": 30,
+        "partages": 6,
+        "media": "post-medias/41/citation-de-la-semaine-fxjiex.jpg"
+      }
+    },
+    {
+      "id": 38,
+      "titre": "",
+      "slug": "KR5kZcBTAD",
+      "id_dossier": null,
+      "nom_utilisateur": "La Baronesa",
+      "id_suppression": null,
+      "date_creation": "2009-04-16T21:00:21.000000Z",
+      "nombre_reponses": 5,
+      "message_post": {
+        "id": 162,
+        "id_blog": 38,
+        "nom_utilisateur": "La Baronesa",
+        "contenu": "\"Un premier infidèle s'avança et exprima ses doutes. Raisonnablement, puis nerveusement, enfin colériquement. Alors que le messager s'apprêtait à répliquer, craignant un repli collectif, son auditoire se dressa non pas contre lui, mais face à son opp...",
+        "date_publication": "2009-04-16T21:00:21.000000Z",
+        "id_suppression": null,
+        "likes": 41,
+        "partages": 8,
+        "media": "post-medias/38/citation-de-la-semaine-WiXa1b.jpg"
+      }
+    },
+    {
+      "id": 27,
+      "titre": "",
+      "slug": "OU3sWuiwlh",
+      "id_dossier": null,
+      "nom_utilisateur": "La Baronesa",
+      "id_suppression": null,
+      "date_creation": "2009-01-08T09:21:11.000000Z",
+      "nombre_reponses": 5,
+      "message_post": {
+        "id": 93,
+        "id_blog": 27,
+        "nom_utilisateur": "La Baronesa",
+        "contenu": "«Et Il lui dit : \"Tu tendras la main car tu as été accepté parmi nous. Ta place est sienne, sa place est tienne. Nulle différence face à l'Unité.\"», Livre de la Citadelle Rouge, 05:14. La Baronesa ici présente, entendons-nous comme il se doit, compag...",
+        "date_publication": "2009-01-08T09:21:11.000000Z",
+        "id_suppression": null,
+        "likes": 18,
+        "partages": 4,
+        "media": "post-medias/27/la-baronesa-rxSGEL.jpg"
+      }
+    }
+  ]
+}

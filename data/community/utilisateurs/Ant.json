@@ -7,5 +7,27 @@
     "created_at": "2009-01-01T19:50:20.000000Z",
     "updated_at": "2026-05-21T19:50:20.000000Z"
   },
-  "blogs": []
+  "blogs": [
+    {
+      "id": 39,
+      "titre": "",
+      "slug": "78RcuELBgw",
+      "id_dossier": null,
+      "nom_utilisateur": "Ant",
+      "id_suppression": null,
+      "date_creation": "2009-05-12T12:40:41.000000Z",
+      "nombre_reponses": 7,
+      "message_post": {
+        "id": 167,
+        "id_blog": 39,
+        "nom_utilisateur": "Ant",
+        "contenu": "Est-ce que comme moi, vous avez déjà eu envie de changer d'air ? Pas juste partir en vacances, changer de travail ou renouveler votre entourage mais vraiment de changer de vie. Laisser tout, tout le monde, tout ce que vous avez et auriez pu avoir der...",
+        "date_publication": "2009-05-12T12:40:41.000000Z",
+        "id_suppression": null,
+        "likes": 28,
+        "partages": 6,
+        "media": null
+      }
+    }
+  ]
 }

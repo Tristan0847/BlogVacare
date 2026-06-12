@@ -1,0 +1,49 @@
+{
+  "id": 32,
+  "titre": "",
+  "slug": "AFDkakurCX",
+  "id_dossier": null,
+  "nom_utilisateur": "El Baron",
+  "id_suppression": null,
+  "date_creation": "2009-02-02T09:00:14.000000Z",
+  "nombre_reponses": 3,
+  "messages": [
+    {
+      "id": 124,
+      "id_blog": 32,
+      "nom_utilisateur": "El Baron",
+      "contenu": "\"Il s'ouvrit aux pensées qui l'assaillaient : une véritable foule de connaissances, toutes plus uniques les unes que les autres. Toutes désiraient, toutes aimaient, toutes haïssaient. D'une parfaite harmonie, elles formèrent une même Unité.\"\r\nLivre de la Citadelle Rouge, 05:05-06. Aimons-nous les uns les autres, nos pensées ont le même fond malgré leurs différences de forme",
+      "date_publication": "2009-02-02T09:00:14.000000Z",
+      "id_suppression": null,
+      "likes": 40,
+      "partages": 7,
+      "media": "post-medias/32/citation-de-la-semaine-Rl271k.jpg",
+      "element_supprime_visible": null
+    },
+    {
+      "id": 125,
+      "id_blog": 32,
+      "nom_utilisateur": "Vince",
+      "contenu": "Très belle citation, merci à vous",
+      "date_publication": "2009-02-02T12:19:42.000000Z",
+      "id_suppression": null,
+      "likes": 7,
+      "partages": 1,
+      "media": null,
+      "element_supprime_visible": null
+    },
+    {
+      "id": 126,
+      "id_blog": 32,
+      "nom_utilisateur": "Edmond2809",
+      "contenu": "Je ne suis pas dans la Citadelle Rouge, mais j'aime bien ses morales du genre",
+      "date_publication": "2009-02-02T13:09:25.000000Z",
+      "id_suppression": null,
+      "likes": 4,
+      "partages": 0,
+      "media": null,
+      "element_supprime_visible": null
+    }
+  ],
+  "element_supprime_visible": null
+}

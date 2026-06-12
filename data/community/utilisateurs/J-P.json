@@ -1,0 +1,54 @@
+{
+  "utilisateur": {
+    "nom_utilisateur": "J-P",
+    "est_admin": 0,
+    "description": null,
+    "banniere": null,
+    "created_at": "2009-01-18T10:50:59.000000Z",
+    "updated_at": "2009-01-18T10:50:59.000000Z"
+  },
+  "blogs": [
+    {
+      "id": 42,
+      "titre": "",
+      "slug": "JHUFIB4J8o",
+      "id_dossier": null,
+      "nom_utilisateur": "J-P",
+      "id_suppression": null,
+      "date_creation": "2009-06-16T14:31:44.000000Z",
+      "nombre_reponses": 5,
+      "message_post": {
+        "id": 187,
+        "id_blog": 42,
+        "nom_utilisateur": "J-P",
+        "contenu": "Faudrait qu'on sfasse un truc un de ces 4 tous ensemble, vous croyez pas ?",
+        "date_publication": "2009-06-16T14:31:44.000000Z",
+        "id_suppression": null,
+        "likes": 5,
+        "partages": 0,
+        "media": null
+      }
+    },
+    {
+      "id": 37,
+      "titre": "",
+      "slug": "CKKFqc440u",
+      "id_dossier": null,
+      "nom_utilisateur": "J-P",
+      "id_suppression": null,
+      "date_creation": "2009-04-05T22:38:49.000000Z",
+      "nombre_reponses": 7,
+      "message_post": {
+        "id": 155,
+        "id_blog": 37,
+        "nom_utilisateur": "J-P",
+        "contenu": "g vu un documentaire sur les kangourous ce soir. Jen aurai rien eu a foutre d'habitude mais avec tout ce qui spasse ici, bah g fini le cul cloué sur le canap pendant 3h quoi",
+        "date_publication": "2009-04-05T22:38:49.000000Z",
+        "id_suppression": null,
+        "likes": 8,
+        "partages": 3,
+        "media": null
+      }
+    }
+  ]
+}

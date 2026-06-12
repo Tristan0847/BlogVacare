@@ -17,6 +17,7 @@
       "id_suppression": null,
       "likes": 8,
       "partages": 3,
+      "media": null,
       "element_supprime_visible": null
     },
     {
@@ -28,6 +29,7 @@
       "id_suppression": null,
       "likes": 5,
       "partages": 2,
+      "media": null,
       "element_supprime_visible": null
     },
     {
@@ -39,6 +41,7 @@
       "id_suppression": null,
       "likes": 15,
       "partages": 4,
+      "media": null,
       "element_supprime_visible": null
     }
   ],
@@ -46,7 +49,7 @@
     "id": 28,
     "nom_utilisateur": "Vacare",
     "raison_suppression": "",
-    "date_suppression": "2021-08-05T08:47:00.000000Z",
+    "date_suppression": "2021-08-15T08:47:00.000000Z",
     "cache": 0
   }
 }

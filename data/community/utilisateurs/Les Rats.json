@@ -1,0 +1,11 @@
+{
+  "utilisateur": {
+    "nom_utilisateur": "Les Rats",
+    "est_admin": 0,
+    "description": "Nous sommes les Rats que N0realis aimerait exterminer.\n\nNous sommes les parangons d’une vérité qu’ils souhaitent enterrer.\n\nIl est temps pour N0realis de récolter.",
+    "banniere": "RATS.jpg",
+    "created_at": "2026-01-01T07:38:14.000000Z",
+    "updated_at": "2026-01-01T07:38:14.000000Z"
+  },
+  "blogs": []
+}

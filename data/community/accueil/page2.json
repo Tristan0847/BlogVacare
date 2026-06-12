@@ -2,50 +2,220 @@
   "current_page": 2,
   "data": [
     {
-      "id": 15,
-      "titre": "",
-      "slug": "Zl3EmTeeW0",
-      "id_dossier": null,
-      "nom_utilisateur": "Vince",
+      "id": 9,
+      "titre": "Faits historiques",
+      "slug": "faits-historiques",
+      "id_dossier": 2,
+      "nom_utilisateur": "Oneiros",
       "id_suppression": null,
-      "date_creation": "2009-01-02T06:18:39.000000Z",
-      "nombre_reponses": 4,
+      "date_creation": "2010-08-16T10:55:38.000000Z",
+      "nombre_reponses": 6,
       "message_post": {
-        "id": 61,
-        "id_blog": 15,
-        "nom_utilisateur": "Vince",
-        "contenu": "Bienvenue",
-        "date_publication": "2009-01-02T06:18:39.000000Z",
+        "id": 13,
+        "id_blog": 9,
+        "nom_utilisateur": "Oneiros",
+        "contenu": "J’aimerais avant tout qu’on se penche sur des faits historiques qui prouveraient ma théorie si tu le veux bien, l’imaginaire a toujours fait partie intégrante de l’histoire par le biais de l’art, des romans, de fresques ou même de légendes locales si...",
+        "date_publication": "2010-08-16T10:55:38.000000Z",
         "id_suppression": null,
-        "likes": 1,
-        "partages": 1
+        "likes": 0,
+        "partages": 0,
+        "media": null
       }
     },
     {
-      "id": 14,
-      "titre": "",
-      "slug": "9lIY5NaxPN",
-      "id_dossier": null,
-      "nom_utilisateur": "DrOwl",
+      "id": 8,
+      "titre": "Imagine TOUT !",
+      "slug": "imagine-tout",
+      "id_dossier": 2,
+      "nom_utilisateur": "Oneiros",
       "id_suppression": null,
-      "date_creation": "2009-01-01T12:08:18.000000Z",
-      "nombre_reponses": 3,
+      "date_creation": "2010-08-14T15:14:50.000000Z",
+      "nombre_reponses": 6,
       "message_post": {
-        "id": 58,
-        "id_blog": 14,
-        "nom_utilisateur": "DrOwl",
-        "contenu": "Bonjour à tous et bienvenue chez AVOS Community !\nOn a mis en place ce site avec Ant et Vincent pour rassembler et agrandir nos communautés respectives. Les accès sont, pour le moment, limités aux likes et partages mais on ajoutera des membres dès la...",
-        "date_publication": "2009-01-01T12:08:18.000000Z",
+        "id": 3,
+        "id_blog": 8,
+        "nom_utilisateur": "Oneiros",
+        "contenu": "Imagine n'importe quoi, ce que tu veux, et garde précieusement cette image en tête… D'une certaine façon, tu sais que ce que t'imagines existe quelque part, pas juste dans ton esprit mais physiquement quelque part, et pourtant c'est hors d'atteinte e...",
+        "date_publication": "2010-08-14T15:14:50.000000Z",
+        "id_suppression": null,
+        "likes": 0,
+        "partages": 0,
+        "media": null
+      }
+    },
+    {
+      "id": 6,
+      "titre": "Recoucou Vincent !",
+      "slug": "recoucou-vincent",
+      "id_dossier": 2,
+      "nom_utilisateur": "Oneiros",
+      "id_suppression": null,
+      "date_creation": "2010-08-13T13:15:59.000000Z",
+      "nombre_reponses": 5,
+      "message_post": {
+        "id": 2,
+        "id_blog": 6,
+        "nom_utilisateur": "Oneiros",
+        "contenu": "Coucou Vincent, je te remercie de m'accueillir par ici, ça faisait longtemps que je cherchais une oreille attentive pour mes théories et d'avoir un site web entier où pouvoir en parler, le rêve !",
+        "date_publication": "2010-08-13T13:15:59.000000Z",
+        "id_suppression": null,
+        "likes": 0,
+        "partages": 0,
+        "media": null
+      }
+    },
+    {
+      "id": 45,
+      "titre": "",
+      "slug": "86SoF2OBUy",
+      "id_dossier": null,
+      "nom_utilisateur": "El Baron",
+      "id_suppression": null,
+      "date_creation": "2009-08-03T09:00:14.000000Z",
+      "nombre_reponses": 1,
+      "message_post": {
+        "id": 206,
+        "id_blog": 45,
+        "nom_utilisateur": "El Baron",
+        "contenu": "\"La conjointe s'avança, affligée et découragée. Ses craintes furent apaisées lorsqu'elle comprit que sa moitié ne partirait jamais vraiment Car nous ne sommes qu'Un et que partout où elle serait, il demeurerait présent.\"\r\nLivre de la Citadelle Rouge,...",
+        "date_publication": "2009-08-03T09:00:14.000000Z",
+        "id_suppression": null,
+        "likes": 59,
+        "partages": 18,
+        "media": "post-medias/45/citation-de-la-semaine-UT8Acx.jpg"
+      }
+    },
+    {
+      "id": 44,
+      "titre": "",
+      "slug": "Dri6fnDTnm",
+      "id_dossier": null,
+      "nom_utilisateur": "Edmond2809",
+      "id_suppression": null,
+      "date_creation": "2009-08-02T03:34:16.000000Z",
+      "nombre_reponses": 7,
+      "message_post": {
+        "id": 199,
+        "id_blog": 44,
+        "nom_utilisateur": "Edmond2809",
+        "contenu": "J'ai pris du temps avant de reposter ici, franchement je pense que ça sera la dernière fois avant longtemps... Je le dis pour Ant qui doit être inquiet mais Bauk a eu un accident très grave le jour de son match, je suis resté en contact avec les méde...",
+        "date_publication": "2009-08-02T03:34:16.000000Z",
+        "id_suppression": null,
+        "likes": 138,
+        "partages": 46,
+        "media": null
+      }
+    },
+    {
+      "id": 43,
+      "titre": "",
+      "slug": "Ziwv8I1sJd",
+      "id_dossier": null,
+      "nom_utilisateur": "JeVeuxMeBattreAvecUnKangourou",
+      "id_suppression": null,
+      "date_creation": "2009-06-23T11:20:27.000000Z",
+      "nombre_reponses": 7,
+      "message_post": {
+        "id": 192,
+        "id_blog": 43,
+        "nom_utilisateur": "JeVeuxMeBattreAvecUnKangourou",
+        "contenu": "Les amis, après des années d'entraînement quotidien et de recherches intensives, j'ai l'immense honneur de vous annoncer que ce vendredi, je serai présent lors du tournoi de boxe du club de ██████████... en tant que boxeur ! Je vous l'ai caché pour f...",
+        "date_publication": "2009-06-23T11:20:27.000000Z",
+        "id_suppression": null,
+        "likes": 89,
+        "partages": 24,
+        "media": null
+      }
+    },
+    {
+      "id": 42,
+      "titre": "",
+      "slug": "JHUFIB4J8o",
+      "id_dossier": null,
+      "nom_utilisateur": "J-P",
+      "id_suppression": null,
+      "date_creation": "2009-06-16T14:31:44.000000Z",
+      "nombre_reponses": 5,
+      "message_post": {
+        "id": 187,
+        "id_blog": 42,
+        "nom_utilisateur": "J-P",
+        "contenu": "Faudrait qu'on sfasse un truc un de ces 4 tous ensemble, vous croyez pas ?",
+        "date_publication": "2009-06-16T14:31:44.000000Z",
+        "id_suppression": null,
+        "likes": 5,
+        "partages": 0,
+        "media": null
+      }
+    },
+    {
+      "id": 41,
+      "titre": "",
+      "slug": "CQZifPcRaT",
+      "id_dossier": null,
+      "nom_utilisateur": "La Baronesa",
+      "id_suppression": null,
+      "date_creation": "2009-06-02T21:00:10.000000Z",
+      "nombre_reponses": 5,
+      "message_post": {
+        "id": 182,
+        "id_blog": 41,
+        "nom_utilisateur": "La Baronesa",
+        "contenu": "\"Le messager lui tendit la main et lui souffla les mots qu'il désirait entendre : il lui dit que son temps était compté, et qu'il Le rejoindrait tantôt. Il lui dit qu'il quitterait ce monde dans la souffrance et que ce mal était fondamental. Mais que...",
+        "date_publication": "2009-06-02T21:00:10.000000Z",
+        "id_suppression": null,
+        "likes": 30,
+        "partages": 6,
+        "media": "post-medias/41/citation-de-la-semaine-fxjiex.jpg"
+      }
+    },
+    {
+      "id": 40,
+      "titre": "",
+      "slug": "8uOwYDv9Ly",
+      "id_dossier": null,
+      "nom_utilisateur": "Edmond2809",
+      "id_suppression": null,
+      "date_creation": "2009-05-28T18:13:27.000000Z",
+      "nombre_reponses": 8,
+      "message_post": {
+        "id": 174,
+        "id_blog": 40,
+        "nom_utilisateur": "Edmond2809",
+        "contenu": "Question d'intérêt public pour 'Bauk : quand t'auras vaincu ton kangourou, tu feras quoi de son gamin ?",
+        "date_publication": "2009-05-28T18:13:27.000000Z",
+        "id_suppression": null,
+        "likes": 51,
+        "partages": 12,
+        "media": null
+      }
+    },
+    {
+      "id": 39,
+      "titre": "",
+      "slug": "78RcuELBgw",
+      "id_dossier": null,
+      "nom_utilisateur": "Ant",
+      "id_suppression": null,
+      "date_creation": "2009-05-12T12:40:41.000000Z",
+      "nombre_reponses": 7,
+      "message_post": {
+        "id": 167,
+        "id_blog": 39,
+        "nom_utilisateur": "Ant",
+        "contenu": "Est-ce que comme moi, vous avez déjà eu envie de changer d'air ? Pas juste partir en vacances, changer de travail ou renouveler votre entourage mais vraiment de changer de vie. Laisser tout, tout le monde, tout ce que vous avez et auriez pu avoir der...",
+        "date_publication": "2009-05-12T12:40:41.000000Z",
         "id_suppression": null,
         "likes": 28,
-        "partages": 7
+        "partages": 6,
+        "media": null
       }
     }
   ],
   "first_page_url": "http://localhost:8000/api/communaute/blogs?page=1",
   "from": 11,
-  "last_page": 2,
-  "last_page_url": "http://localhost:8000/api/communaute/blogs?page=2",
+  "last_page": 4,
+  "last_page_url": "http://localhost:8000/api/communaute/blogs?page=4",
   "links": [
     {
       "url": "http://localhost:8000/api/communaute/blogs?page=1",
@@ -66,16 +236,28 @@
       "active": true
     },
     {
-      "url": null,
+      "url": "http://localhost:8000/api/communaute/blogs?page=3",
+      "label": "3",
+      "page": 3,
+      "active": false
+    },
+    {
+      "url": "http://localhost:8000/api/communaute/blogs?page=4",
+      "label": "4",
+      "page": 4,
+      "active": false
+    },
+    {
+      "url": "http://localhost:8000/api/communaute/blogs?page=3",
       "label": "Next &raquo;",
-      "page": null,
+      "page": 3,
       "active": false
     }
   ],
-  "next_page_url": null,
+  "next_page_url": "http://localhost:8000/api/communaute/blogs?page=3",
   "path": "http://localhost:8000/api/communaute/blogs",
   "per_page": 10,
   "prev_page_url": "http://localhost:8000/api/communaute/blogs?page=1",
-  "to": 12,
-  "total": 12
+  "to": 20,
+  "total": 35
 }

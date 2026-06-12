@@ -1,0 +1,11 @@
+{
+  "utilisateur": {
+    "nom_utilisateur": "Nick",
+    "est_admin": 0,
+    "description": "toi",
+    "banniere": null,
+    "created_at": "2009-02-05T18:09:50.000000Z",
+    "updated_at": "2009-02-05T18:09:50.000000Z"
+  },
+  "blogs": []
+}

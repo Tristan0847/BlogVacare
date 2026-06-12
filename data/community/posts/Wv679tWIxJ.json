@@ -1,0 +1,31 @@
+{
+  "id": 50,
+  "titre": "",
+  "slug": "Wv679tWIxJ",
+  "id_dossier": null,
+  "nom_utilisateur": "Les Rats",
+  "id_suppression": 33,
+  "date_creation": "2026-01-04T10:00:00.000000Z",
+  "nombre_reponses": 1,
+  "messages": [
+    {
+      "id": 220,
+      "id_blog": 50,
+      "nom_utilisateur": "Les Rats",
+      "contenu": "NOUS SOMMES LES RATS QUE N0REALIS SOUHAITE ÉCRASER.\r\nLE 11 JUILLET 2024, ILS ONT COMMIS L'IRRÉPARABLE, NOUS NE TAIRONS JAMAIS CETTE VÉRITÉ.\r\n[TOUTES LES PREUVES SONT SOUS VOS YEUX, IL NE TIENT QU'À VOUS DE LES RECONNAÎTRE.](https://www.blogvacare.com/rats/)",
+      "date_publication": "2026-01-04T10:00:00.000000Z",
+      "id_suppression": null,
+      "likes": 999,
+      "partages": 999,
+      "media": "post-medias/47/11072024.mp4",
+      "element_supprime_visible": null
+    }
+  ],
+  "element_supprime_visible": {
+    "id": 33,
+    "nom_utilisateur": "Vacare",
+    "raison_suppression": "",
+    "date_suppression": "2026-01-04T10:01:01.000000Z",
+    "cache": 0
+  }
+}
